@@ -25,21 +25,5 @@ document.write('<!DOCTYPE html>');
   document.write('<p></p>');
   document.write('<textarea id="textarea" rows="1" cols="18" placeholder="Website name here!">');
   document.write('</textarea>`');
-document.write( '<!DOCTYPE html>\n' );
-document.write( '<html>\n' );
-document.write( '<head>\n' );
-document.write( '\n' );
-document.write( '</head>\n' );
-document.write( '<body>\n' );
-document.write( '<button onclick=\"JSalert()\">Extra Hack | upgrades the POWER!</button>\n' );
-document.write( '\n' );
-document.write( '<script type=\"text/javascript\">\n' );
-document.write( 'function JSalert(){\n' );
-document.write( '    alert(\"EXTRA Hacks/upgrade Enabled! \");\n' );
-document.write( '}\n' );
-document.write( '</script>\n' );
-document.write( '</body>\n' );
-document.write( '</html>\n' );
-document.write( '\n' );
-<script type="text/javascript"
+
 
