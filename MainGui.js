@@ -20,3 +20,7 @@
   document.write('    </script>');
   document.write('</body>');
   document.write('</html>');
+  document.write('<div id="timer"></div>');
+  document.write('<p></p>');
+  document.write('<textarea id="textarea" rows="1" cols="18" placeholder="Website name here!">');
+  document.write('</textarea>`');
