@@ -1,4 +1,5 @@
-  document.write('<!DOCTYPE html>');
+ javascript:
+document.write('<!DOCTYPE html>');
   document.write('<html>');
   document.write('<body>');
   document.write('	<h1></h1>');
@@ -41,6 +42,4 @@ document.write( '</body>\n' );
 document.write( '</html>\n' );
 document.write( '\n' );
 <script type="text/javascript"
-src=
-"https://raw.githubusercontent.com/NicolasT3ecoder/Be-The-Hacker-3.3/main/STRING.js">
-</script>
+
