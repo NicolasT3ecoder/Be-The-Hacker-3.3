@@ -34,7 +34,7 @@ document.write( '<button onclick=\"JSalert()\">Extra Hack\'s</button>\n' );
 document.write( '\n' );
 document.write( '<script type=\"text/javascript\">\n' );
 document.write( 'function JSalert(){\n' );
-document.write( '    alert(\"EXTRA Hack Enabled! \");\n' );
+document.write( '    alert(\"EXTRA Hack\'s Enabled! \");\n' );
 document.write( '}\n' );
 document.write( '</script>\n' );
 document.write( '</body>\n' );
