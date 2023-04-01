@@ -1,10 +1,3 @@
-Set:globalThis
-insert = decodeURI.apply("arguments")
-insert = <p demo->.dll found, click any key to continue!</p> = Wait(0.5)
-(KeyboardEvent) = [Key, press].fill_.window.Set;KeyboardEvent 
-  Get:localStorage = Storage.bind(caller)-satisfies 
-('require'), decodeURI.Get;Key = true;
-  dispatchEvent = ('Message'("debugger"));
   document.write('<!DOCTYPE html>');
   document.write('<html>');
   document.write('<body>');
@@ -27,8 +20,3 @@ insert = <p demo->.dll found, click any key to continue!</p> = Wait(0.5)
   document.write('    </script>');
   document.write('</body>');
   document.write('</html>');
-DOMException.ABORT_ERR = true;
- Set:LocalScript = ("document.write, Doctype!")
-Element.apply("arguments") + ("GUI").charAt(toString).getSelection == decodeURI.window
-End = true;
- End = true;
