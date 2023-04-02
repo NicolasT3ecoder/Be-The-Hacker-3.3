@@ -19,4 +19,5 @@ If you get in trouble for using this i am not responsible for any actions that y
   BAT files hack controller will come out...
   .org games hack controller will come out...
   .com websites hack controller version 3.3
-   Version 3.3!
+   Version 3.3
+  release date: 4/1/23
